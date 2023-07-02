@@ -5,10 +5,6 @@ DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 ## Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
 
-## DevOps Certification Vouchers
-
-🚀 If you are preparing for CKA, CKAD, CKS, or KCNA exam, save 20% today using code **DCUBE20** at https://kube.promo/devops. It is a limited-time offer.
-
 ## List of DevOps Project Ideas
 
 All the DevOps Real World Projects are Documented in [Real World DevOps Projects](https://devopscube.com/devops-projects/) blog
